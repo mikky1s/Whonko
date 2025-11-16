@@ -1,26 +1,21 @@
 # 💠Whonko
-**Whonko** — это **блокчейн первого уровня с доказательством выполнения работы нового поколения**, построенный на алгоритме **Scrypt**.
-Он создан для **майнеров**, которые считают, что настоящая децентрализация начинается с **вычислений, справедливости и прозрачности.**
+**Whonko** — This is a **first-generation proof-of-work blockchain** built on the **Scrypt** algorithm.
+It is designed for **miners** who believe that true decentralization begins with **computation, fairness, and transparency.**
 
-🌐 Веб-сайт: в разработке.
+🌐 Website: -
 
-#  🛠 Основные Характеристики
-+ ⚒ **Proof-of-Work на основе Scrypt** — проверенный консенсус, обеспечивающий безопасность и доступность.
+#  🛠 Core Features
++ ⚒ **Proof-of-Work Scrypt-based** is a proven consensus that ensures security and availability.
 
-+ 💎 **Фиксированное предложение (100 млн WNK)** — ограниченная эмиссия для долгосрочного дефицита и предсказуемой инфляции.
++ 💎 **Fixed supply (100 million WNK)** — limited issuance for long-term deficit and predictable inflation.
 
-+ 🧱 **Комиссия за разработку — 1%**
++ 🧱 **Dev fee** — 1%
 
-+ 💰  **4% Premine** — выделено на развитие команды, листинг на биржах, инфраструктуру и экосистему.
++ 💰  **4% Premine** — allocated for team development, listing on exchanges, infrastructure, and the ecosystem.
+ 
 
-+ 💲 **Награда за блок** — 20 WNK.
-
-+ 💠 **Халвинг** — происходит раз в 210.000 блоков.
-
-+ 🎇 **Блок** — раз в 30 секунд.
-
-#  📊 Халвинг
-   БЛОКИ                      ——————————                  НАГРАДА (WNK)
+#  📊 Emission Schedule
+   BLOCKS                      ——————————                  REWARD (WNK)
 
 1 → 210.000                   — 20 WNK/BLOCK                    
 
@@ -40,39 +35,41 @@
 
 1.680.001 → 912.000.000       — 0.078125 WNK/BLOCK
 
-# ⛏ Системные требования
-**Рекомендуемые**
+Total — 96,000,000 WNK
 
-+ **Операционная система** — windows 10/linux
+# ⛏ System requirements
+**Recommended**
 
-+ **Версия python** — 3.14.x
++ **OS** — windows 10/linux
 
-+ **Процессор** — Четырехъядерный процессор 3,0 ГГц+
++ **Version python** — 3.14.x
 
-+ **Оперативная память** — 8 ГБ или больше
++ **CPU** — Quad-Core 3.0 GHz+
 
-+ **Хранение** — NWMe SSD на 150 ГБ+
++ **RAM** — 8 GB or more
 
-+ **Сеть** — Стабильное высокоскоростное соединение
++ **Storage** — NWMe SSD  150 ГБ+
 
-**Минимальные**
++ **Network** — Stable high-speed connection
 
-+ **Операционная система** — windows 10/linux
+**Minimal**
 
-+ **Версия python** — 3.12.x
++ **OS** — windows 10/linux
 
-+ **Процессор** — Двухъядерный процессор 2,0 ГГц
++ **Version python** — 3.12.x
 
-+ **Оперативная память** — 4 ГБ
++ **CPU** — Dual-Core 2.0 GHz
 
-+ **Хранение** — 50 ГБ свободного места (рекомендуется SSD)
++ **RAM** — 4 GB
 
-+ **Сеть** — Широкополосный доступ   
++ **Storage** — 50 GB free space (SSD recommended)
+
++ **Network** — Broadband   
 
 
 # Сообщество 🌍
-+ 📢  [телеграм канал](https://t.me/whonkonews)
-+ 💭 [телеграм группа](https://t.me/whonkonews1) 
++ 📢  [Telegram news](https://t.me/whonkonews)
++ 💭 [Telegram group](https://t.me/whonkonews1) 
 
 
 	
