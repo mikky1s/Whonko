@@ -67,7 +67,7 @@ Total — 96,000,000 WNK
 + **Network** — Broadband   
 
 
-# Сообщество 🌍
+# Community 🌍
 + 📢  [Telegram news](https://t.me/whonkonews)
 + 💭 [Telegram group](https://t.me/whonkonews1) 
 
